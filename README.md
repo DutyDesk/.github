@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://dutydesk.app">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://dutydesk.app/brand_lockup--dark.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://dutydesk.app/brand_lockup--light.png" />
-      <img src="https://dutydesk.app/brand_lockup--light.png" alt="DutyDesk" height="48" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://dutydesk.app/brand_lockup--light.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://dutydesk.app/brand_lockup--dark.png" />
+      <img src="https://dutydesk.app/brand_lockup--dark.png" alt="DutyDesk" height="32" />
     </picture>
   </a>
 </p>
