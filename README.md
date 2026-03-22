@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://dutydesk.app/brand_lockup--light.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://dutydesk.app/brand_lockup--dark.png" />
-      <img src="https://dutydesk.app/brand_lockup--dark.png" alt="DutyDesk" height="32" />
+      <img src="https://dutydesk.app/brand_lockup--dark.png" alt="DutyDesk" height="24" />
     </picture>
   </a>
 </p>
