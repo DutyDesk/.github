@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://dutydesk.app">
-    <img src="https://dutydesk.app/logomark.svg" alt="DutyDesk" width="48" height="48" />
+    <img src="https://dutydesk.app/brand_lockup.svg" alt="DutyDesk" height="48" />
   </a>
 </p>
 
-<h3 align="center">DutyDesk</h3>
-<p align="center">Tariff intelligence for the US and EU.<br>Accurate duty rates, trade actions, and customs rulings from USITC and TARIC data.</p>
+<h3 align="center">Tariff intelligence for the US and EU.</h3>
+<p align="center">Accurate duty rates, trade actions, and customs rulings from USITC and TARIC data.</p>
 
 <p align="center">
   <a href="https://dutydesk.app">Website</a> · <a href="https://dutydesk.app/docs/api">API Docs</a> · <a href="https://dutydesk.app/blog">Blog</a>
