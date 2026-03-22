@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://dutydesk.app">
-    <img src="https://dutydesk.app/brand_lockup.svg" alt="DutyDesk" height="48" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://dutydesk.app/brand_lockup--dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://dutydesk.app/brand_lockup--light.png" />
+      <img src="https://dutydesk.app/brand_lockup--light.png" alt="DutyDesk" height="48" />
+    </picture>
   </a>
 </p>
 
